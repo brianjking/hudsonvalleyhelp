@@ -3,7 +3,9 @@ copyright: 2016 &copy; Brian J King unless otherwise noted. Made with <i class="
 site_description: Hudson Valley DockDogs Website Documentation
 site_author: Brian J King
 pages:
-- Home: index.md 
+- Home: index.md
+- Style: 
+    - Color Scheme: style/color-scheme.md
 theme: material
 markdown_extensions:
     - toc:
