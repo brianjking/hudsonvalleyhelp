@@ -5,7 +5,7 @@ site_author: Brian J King
 pages:
 - Home: index.md
 - Style Guide: 
-    - Color Scheme: style/color-scheme.md
+    - Color Scheme: style-guide/color-scheme.md
 theme: material
 markdown_extensions:
     - toc:
@@ -17,11 +17,11 @@ markdown_extensions:
 
 # Options
 extra:
-  version: '0.1.0'
+  #version: '0.1.0'
   #logo: 'images/logo.png'
   palette:
     primary: 'light blue'
-    accent: 'light blue'
+    accent: 'pink'
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
