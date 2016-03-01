@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: Hudson Valley DockDogs Website Help
+copyright: &copy; 2016 Brian J King unless otherwise noted. Made with <i class="fa fa-heart"></i> in Chicago.
+site_description: Hudson Valley DockDogs Website Documentation
+site_author: Brian J King
+pages:
+- Home: index.md 
+theme: material
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition:
+    - pymdownx.tilde
+    - markdown.extensions.smarty
+    - pymdownx.smartsymbols
+

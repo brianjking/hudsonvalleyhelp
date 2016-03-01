@@ -3,4 +3,4 @@ python:
 - '2.7'
 install: pip install -q -r requirements.txt
 script: mkdocs build
-# after_success: curl -X POST https://ddschedule.deploybot.com/webhook/14484b79990123e8a02749511a58
+after_success: mkdocs gh-deploy
