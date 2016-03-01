@@ -4,7 +4,7 @@ site_description: Hudson Valley DockDogs Website Documentation
 site_author: Brian J King
 pages:
 - Home: index.md
-- Style: 
+- Style Guide: 
     - Color Scheme: style/color-scheme.md
 theme: material
 markdown_extensions:
