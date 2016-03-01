@@ -2,41 +2,36 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\uf0c1\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\uf0c1\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\uf0c1\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n\uf0c1\n\n\nTo-Do\n\uf0c1\n\n\n\n\nAdd basic WordPress tutorials\n\n\nAdd Basic WordPress Divi links\n\n\nAdd other tutorials\n\n\nAdd LICENSE file\n\n\nFix CNAME from being deleted", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#welcome-to-the-hudson-valley-dockdogs-website-documentation-help", 
+            "text": "", 
+            "title": "Welcome to the Hudson Valley DockDogs Website Documentation &amp; Help"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#to-do", 
+            "text": "Add basic WordPress tutorials  Add Basic WordPress Divi links  Add other tutorials  Add LICENSE file  Fix CNAME from being deleted", 
+            "title": "To-Do"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
-        }, 
-        {
-            "location": "/style/color-scheme/", 
+            "location": "/style-guide/color-scheme/", 
             "text": "Hudson Valley DockDogs Website Style Guide\n\uf0c1\n\n\nColor Hex Codes\n\uf0c1\n\n\n\n\n#a3daff\n\n\n#1ec0ff\n\n\n#0080ff\n\n\n#03a6ff\n\n\n\n\nExample Colors\n\uf0c1", 
             "title": "Color Scheme"
         }, 
         {
-            "location": "/style/color-scheme/#hudson-valley-dockdogs-website-style-guide", 
+            "location": "/style-guide/color-scheme/#hudson-valley-dockdogs-website-style-guide", 
             "text": "", 
             "title": "Hudson Valley DockDogs Website Style Guide"
         }, 
         {
-            "location": "/style/color-scheme/#color-hex-codes", 
+            "location": "/style-guide/color-scheme/#color-hex-codes", 
             "text": "#a3daff  #1ec0ff  #0080ff  #03a6ff", 
             "title": "Color Hex Codes"
         }, 
         {
-            "location": "/style/color-scheme/#example-colors", 
+            "location": "/style-guide/color-scheme/#example-colors", 
             "text": "", 
             "title": "Example Colors"
         }
