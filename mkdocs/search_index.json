@@ -19,6 +19,21 @@
             "location": "/#project-layout", 
             "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Project layout"
+        }, 
+        {
+            "location": "/style/color-scheme/", 
+            "text": "Hudson Valley DockDogs Style Guide\n\uf0c1\n\n\nColor Scheme\n\uf0c1\n\n\n\n\n#a3daff\n\n\n#1ec0ff\n\n\n#0080ff\n\n\n#03a6ff", 
+            "title": "Color Scheme"
+        }, 
+        {
+            "location": "/style/color-scheme/#hudson-valley-dockdogs-style-guide", 
+            "text": "", 
+            "title": "Hudson Valley DockDogs Style Guide"
+        }, 
+        {
+            "location": "/style/color-scheme/#color-scheme", 
+            "text": "#a3daff  #1ec0ff  #0080ff  #03a6ff", 
+            "title": "Color Scheme"
         }
     ]
 }
