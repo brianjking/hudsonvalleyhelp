@@ -13,3 +13,19 @@ markdown_extensions:
     - markdown.extensions.smarty
     - pymdownx.smartsymbols
 
+# Options
+extra:
+  version: '0.1.0'
+  #logo: 'images/logo.png'
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
+  author:
+    github: 'brianjking'
+    twitter: 'brianjking'
