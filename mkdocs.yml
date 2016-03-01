@@ -1,4 +1,4 @@
-site_name: Hudson Valley DockDogs Website Help
+site_name: Hudson Valley DockDogs Web Help
 copyright: 2016 &copy; Brian J King unless otherwise noted. Made with <i class="fa fa-heart"></i> in Chicago.
 site_description: Hudson Valley DockDogs Website Documentation
 site_author: Brian J King
@@ -18,7 +18,7 @@ extra:
   version: '0.1.0'
   #logo: 'images/logo.png'
   palette:
-    primary: 'indigo'
+    primary: 'light blue'
     accent: 'light blue'
   font:
     text: 'Roboto'
