@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n\uf0c1\n\n\nTo-Do\n\uf0c1\n\n\n\n\nAdd basic WordPress tutorials\n\n\nAdd Basic WordPress Divi links\n\n\nAdd other tutorials\n\n\nAdd LICENSE file\n\n\nFix CNAME from being deleted", 
+            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n\uf0c1\n\n\nTo-Do\n\uf0c1\n\n\n\n\nAdd basic WordPress tutorials\n\n\nAdd Basic WordPress Divi links\n\n\nAdd other tutorials\n\n\nAdd LICENSE file\n\n\nFix CNAME from being deleted\n** why still broken?", 
             "title": "Home"
         }, 
         {
@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/#to-do", 
-            "text": "Add basic WordPress tutorials  Add Basic WordPress Divi links  Add other tutorials  Add LICENSE file  Fix CNAME from being deleted", 
+            "text": "Add basic WordPress tutorials  Add Basic WordPress Divi links  Add other tutorials  Add LICENSE file  Fix CNAME from being deleted\n** why still broken?", 
             "title": "To-Do"
         }, 
         {
