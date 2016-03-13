@@ -34,6 +34,16 @@
             "location": "/style-guide/color-scheme/#example-colors", 
             "text": "", 
             "title": "Example Colors"
+        }, 
+        {
+            "location": "/wordpress-basics/basics/", 
+            "text": "Signing Into WordPress\n\uf0c1", 
+            "title": "Getting Started"
+        }, 
+        {
+            "location": "/wordpress-basics/basics/#signing-into-wordpress", 
+            "text": "", 
+            "title": "Signing Into WordPress"
         }
     ]
 }
