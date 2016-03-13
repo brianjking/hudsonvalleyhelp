@@ -8,7 +8,7 @@ pages:
 - Home: index.md
 - Style Guide: 
     - Color Scheme: style-guide/color-scheme.md
-- WordPress Basics
+- WordPress Basics:
     - Getting Started: wordpress-basics/basics.md
 theme: material
 markdown_extensions:
