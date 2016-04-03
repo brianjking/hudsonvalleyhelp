@@ -6,7 +6,7 @@ site_author: Brian J King
 site_url: http://help.hudsonvalleydockdogs.com
 pages:
 - Home: index.md
-- Style Guide: 
+- Style Guide:
     - Color Scheme: style-guide/color-scheme.md
 - WordPress Basics:
     - Getting Started: wordpress-basics/basics.md
@@ -22,7 +22,7 @@ markdown_extensions:
 # Options
 extra:
   #version: '0.1.0'
-  #logo: 'images/logo.png'
+  logo: 'img/logo.png'
   palette:
     primary: 'light blue'
     accent: 'pink'
