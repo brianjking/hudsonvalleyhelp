@@ -67,23 +67,28 @@
         }, 
         {
             "location": "/wordpress-basics/forms/", 
-            "text": "WordPress Forms\n#\n\n\nDivi Forms\n#\n\n\nContact Form 7 \n PayPal Forms\n#", 
+            "text": "The Hudson Valley DockDogs website uses two different methods for creating\nforms inside of WordPress.\n\n\nDivi Forms\n#\n\n\nFor basic contact forms the Hudson Valley DockDogs website uses the pre-built\nform engine built into the\n\nDivi Framework\n.\n\n\nContact Form 7 \n PayPal Forms\n#\n\n\nAll forms that integrate with PayPal for accepting payments utilize\n\nContact Form 7\n with a 3\nrd\n party PayPal integration.\n\n\nAdding A New PayPal Form\n#\n\n\nEditing an Existing Forms\n#", 
             "title": "Working with Forms"
         }, 
         {
-            "location": "/wordpress-basics/forms/#wordpress-forms", 
-            "text": "", 
-            "title": "WordPress Forms"
-        }, 
-        {
             "location": "/wordpress-basics/forms/#divi-forms", 
-            "text": "", 
+            "text": "For basic contact forms the Hudson Valley DockDogs website uses the pre-built\nform engine built into the Divi Framework .", 
             "title": "Divi Forms"
         }, 
         {
             "location": "/wordpress-basics/forms/#contact-form-7-paypal-forms", 
-            "text": "", 
+            "text": "All forms that integrate with PayPal for accepting payments utilize Contact Form 7  with a 3 rd  party PayPal integration.", 
             "title": "Contact Form 7 &amp; PayPal Forms"
+        }, 
+        {
+            "location": "/wordpress-basics/forms/#adding-a-new-paypal-form", 
+            "text": "", 
+            "title": "Adding A New PayPal Form"
+        }, 
+        {
+            "location": "/wordpress-basics/forms/#editing-an-existing-forms", 
+            "text": "", 
+            "title": "Editing an Existing Forms"
         }
     ]
 }
