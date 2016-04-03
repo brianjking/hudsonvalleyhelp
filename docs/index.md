@@ -8,4 +8,3 @@
 * Add Basic WordPress Divi links
 * Add other tutorials
 * Add LICENSE file
-- [] Test thing
