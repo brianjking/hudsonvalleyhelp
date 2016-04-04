@@ -8,6 +8,7 @@ pages:
 - Home: index.md
 - Style Guide:
     - Color Scheme: style-guide/color-scheme.md
+    - Typefaces: style-guide/typefaces.md
 - WordPress Basics:
     - Getting Started: wordpress-basics/basics.md
     - Working with Posts: wordpress-basics/posts.md
