@@ -36,14 +36,34 @@
             "title": "Example Colors"
         }, 
         {
+            "location": "/style-guide/typefaces/", 
+            "text": "", 
+            "title": "Typefaces"
+        }, 
+        {
             "location": "/wordpress-basics/basics/", 
-            "text": "Signing Into WordPress\n#", 
+            "text": "A few basic guides have been created below to assist you.\n\n\nSigning Into WordPress\n#\n\n\nUploading Media\n#\n\n\nAdding a Link\n#\n\n\nAdding Style to Format Text\n#", 
             "title": "Getting Started"
         }, 
         {
             "location": "/wordpress-basics/basics/#signing-into-wordpress", 
             "text": "", 
             "title": "Signing Into WordPress"
+        }, 
+        {
+            "location": "/wordpress-basics/basics/#uploading-media", 
+            "text": "", 
+            "title": "Uploading Media"
+        }, 
+        {
+            "location": "/wordpress-basics/basics/#adding-a-link", 
+            "text": "", 
+            "title": "Adding a Link"
+        }, 
+        {
+            "location": "/wordpress-basics/basics/#adding-style-to-format-text", 
+            "text": "", 
+            "title": "Adding Style to Format Text"
         }, 
         {
             "location": "/wordpress-basics/posts/", 
