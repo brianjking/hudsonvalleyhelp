@@ -2,7 +2,7 @@ site_name: Hudson Valley DockDogs Web Help
 copyright: 2016 &copy; Brian J King unless otherwise noted. Made with <i class="fa fa-heart"></i> in Chicago.
 site_description: Hudson Valley DockDogs Website Documentation
 site_author: Brian J King
-# repo_url: https://github.com/brianjking/hudsonvalleyhelp
+repo_url: https://github.com/brianjking/hudsonvalleyhelp
 site_url: http://help.hudsonvalleydockdogs.com
 pages:
 - Home: index.md
