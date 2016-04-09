@@ -87,7 +87,7 @@
         }, 
         {
             "location": "/wordpress-basics/forms/", 
-            "text": "The Hudson Valley DockDogs website uses two different methods for creating\nforms inside of WordPress.\n\n\nDivi Forms\n#\n\n\nFor basic contact forms the Hudson Valley DockDogs website uses the pre-built\nform engine built into the\n\nDivi Framework\n.\n\n\nContact Form 7 \n PayPal Forms\n#\n\n\nAll forms that integrate with PayPal for accepting payments utilize\n\nContact Form 7\n with a 3\nrd\n party PayPal integration.\n\n\nAdding A New PayPal Form\n#\n\n\nEditing an Existing Forms\n#", 
+            "text": "The Hudson Valley DockDogs website uses two different methods for creating\nforms inside of WordPress.\n\n\nDivi Forms\n#\n\n\nFor basic contact forms the Hudson Valley DockDogs website uses the pre-built\nform engine built into the\n\nDivi Framework\n.\n\n\nContact Form 7 \n PayPal Forms\n#\n\n\nAll forms that integrate with PayPal for accepting payments utilize\n\nContact Form 7\n with a 3\nrd\n party PayPal integration.\n\n\nAdding A New PayPal Form\n#\n\n\nFrom your \nWordPress Admin Dashboard\n click on \nCONTACT\n in the left hand\nnavigation menu. From there\n\n\nEditing an Existing Forms\n#", 
             "title": "Working with Forms"
         }, 
         {
@@ -102,7 +102,7 @@
         }, 
         {
             "location": "/wordpress-basics/forms/#adding-a-new-paypal-form", 
-            "text": "", 
+            "text": "From your  WordPress Admin Dashboard  click on  CONTACT  in the left hand\nnavigation menu. From there", 
             "title": "Adding A New PayPal Form"
         }, 
         {
