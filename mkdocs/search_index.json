@@ -77,12 +77,12 @@
         }, 
         {
             "location": "/wordpress-basics/pages/", 
-            "text": "WordPress Pages\n#", 
+            "text": "WordPress Pages\n#\n\n\nWordPress sites are primarily comprised of a combination of \nPOSTS\n and\n\nPAGES\n.", 
             "title": "Working with Pages"
         }, 
         {
             "location": "/wordpress-basics/pages/#wordpress-pages", 
-            "text": "", 
+            "text": "WordPress sites are primarily comprised of a combination of  POSTS  and PAGES .", 
             "title": "WordPress Pages"
         }, 
         {
