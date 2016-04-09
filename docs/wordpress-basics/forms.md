@@ -16,4 +16,7 @@ All forms that integrate with PayPal for accepting payments utilize
 
 ### Adding A New PayPal Form
 
+From your **WordPress Admin Dashboard** click on **CONTACT** in the left hand
+navigation menu. From there
+
 ### Editing an Existing Forms
