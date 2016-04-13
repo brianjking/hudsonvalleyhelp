@@ -67,12 +67,12 @@
         }, 
         {
             "location": "/wordpress-basics/posts/", 
-            "text": "WordPress Posts\n#", 
+            "text": "WordPress Posts\n#\n\n\nWordPress sites are primarily comprised of a combination of \nPOSTS\n and\n\nPAGES\n.", 
             "title": "Working with Posts"
         }, 
         {
             "location": "/wordpress-basics/posts/#wordpress-posts", 
-            "text": "", 
+            "text": "WordPress sites are primarily comprised of a combination of  POSTS  and PAGES .", 
             "title": "WordPress Posts"
         }, 
         {
@@ -109,6 +109,16 @@
             "location": "/wordpress-basics/forms/#editing-an-existing-forms", 
             "text": "", 
             "title": "Editing an Existing Forms"
+        }, 
+        {
+            "location": "/advanced/form-management/", 
+            "text": "Advanced Form Management\n#", 
+            "title": "Form Management"
+        }, 
+        {
+            "location": "/advanced/form-management/#advanced-form-management", 
+            "text": "", 
+            "title": "Advanced Form Management"
         }
     ]
 }
