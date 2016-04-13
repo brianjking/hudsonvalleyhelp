@@ -1,5 +1,5 @@
 site_name: Hudson Valley DockDogs Web Help
-copyright: 2016 &copy; Brian J King unless otherwise noted. Made with <i class="fa fa-heart"></i> in Chicago.
+copyright: 2016 &copy; Brian J King unless otherwise noted. 
 site_description: Hudson Valley DockDogs Website Documentation
 site_author: Brian J King
 repo_url: https://github.com/brianjking/hudsonvalleyhelp
@@ -14,6 +14,8 @@ pages:
     - Working with Posts: wordpress-basics/posts.md
     - Working with Pages: wordpress-basics/pages.md
     - Working with Forms: wordpress-basics/forms.md
+- Advanced:
+    - Form Management: advanced/form-management.md
 theme: material
 markdown_extensions:
     - toc:
