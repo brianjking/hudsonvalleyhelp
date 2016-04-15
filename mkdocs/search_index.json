@@ -2,18 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n#\n\n\nTo-Do\n#\n\n\n\n\nAdd basic WordPress tutorials\n\n\nAdd Basic WordPress Divi links\n\n\nAdd other tutorials\n\n\nAdd LICENSE file", 
+            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n#", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-the-hudson-valley-dockdogs-website-documentation-help", 
             "text": "", 
             "title": "Welcome to the Hudson Valley DockDogs Website Documentation &amp; Help"
-        }, 
-        {
-            "location": "/#to-do", 
-            "text": "Add basic WordPress tutorials  Add Basic WordPress Divi links  Add other tutorials  Add LICENSE file", 
-            "title": "To-Do"
         }, 
         {
             "location": "/style-guide/color-scheme/", 
@@ -37,6 +32,11 @@
         }, 
         {
             "location": "/style-guide/typefaces/", 
+            "text": "Typefaces\n#", 
+            "title": "Typefaces"
+        }, 
+        {
+            "location": "/style-guide/typefaces/#typefaces", 
             "text": "", 
             "title": "Typefaces"
         }, 
