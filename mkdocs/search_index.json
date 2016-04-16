@@ -119,6 +119,21 @@
             "location": "/advanced/form-management/#advanced-form-management", 
             "text": "", 
             "title": "Advanced Form Management"
+        }, 
+        {
+            "location": "/advanced/divi/", 
+            "text": "Working With Divi Theme \n Divi Builder\n#\n\n\nOfficial Documentation\n#\n\n\nOfficial documentation from Elegant Themes on the Divi Framework can be found online at the \nElegant Themes\n.", 
+            "title": "Working with Divi"
+        }, 
+        {
+            "location": "/advanced/divi/#working-with-divi-theme-divi-builder", 
+            "text": "", 
+            "title": "Working With Divi Theme &amp; Divi Builder"
+        }, 
+        {
+            "location": "/advanced/divi/#official-documentation", 
+            "text": "Official documentation from Elegant Themes on the Divi Framework can be found online at the  Elegant Themes .", 
+            "title": "Official Documentation"
         }
     ]
 }
