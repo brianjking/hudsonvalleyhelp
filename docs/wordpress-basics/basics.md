@@ -1,5 +1,4 @@
-A few basic guides have been created below to assist you.
-
+# WordPress Basics 
 
 ## Signing Into WordPress
 

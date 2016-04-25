@@ -17,6 +17,7 @@ pages:
 - Advanced:
     - Form Management: advanced/form-management.md
     - Working with Divi: advanced/divi.md
+    - Working with Events: advanced/events.md
 theme: material
 markdown_extensions:
     - toc:
