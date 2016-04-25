@@ -72,13 +72,28 @@
         }, 
         {
             "location": "/wordpress-basics/posts/", 
-            "text": "WordPress Posts\n#\n\n\nWordPress sites are primarily comprised of a combination of \nPOSTS\n and\n\nPAGES\n.", 
+            "text": "WordPress Posts\n#\n\n\nWordPress sites are primarily comprised of a combination of \nPOSTS\n and\n\nPAGES\n.\n\n\nWhen To Use a Post Versus a Page\n#\n\n\n\n\nTip\n\n\nThe \nPOSTS\n functionality should be used when you\nre adding news or another similar update. You will primarily be \nEDITING PAGES\n or \nADDING POSTS\n as all pages should be already created during the initial site buildout. \n\n\n\n\nAdding A New Post\n#\n\n\nEditing An Existing Post\n#", 
             "title": "Working with Posts"
         }, 
         {
             "location": "/wordpress-basics/posts/#wordpress-posts", 
             "text": "WordPress sites are primarily comprised of a combination of  POSTS  and PAGES .", 
             "title": "WordPress Posts"
+        }, 
+        {
+            "location": "/wordpress-basics/posts/#when-to-use-a-post-versus-a-page", 
+            "text": "Tip  The  POSTS  functionality should be used when you re adding news or another similar update. You will primarily be  EDITING PAGES  or  ADDING POSTS  as all pages should be already created during the initial site buildout.", 
+            "title": "When To Use a Post Versus a Page"
+        }, 
+        {
+            "location": "/wordpress-basics/posts/#adding-a-new-post", 
+            "text": "", 
+            "title": "Adding A New Post"
+        }, 
+        {
+            "location": "/wordpress-basics/posts/#editing-an-existing-post", 
+            "text": "", 
+            "title": "Editing An Existing Post"
         }, 
         {
             "location": "/wordpress-basics/pages/", 
