@@ -42,8 +42,13 @@
         }, 
         {
             "location": "/wordpress-basics/basics/", 
-            "text": "A few basic guides have been created below to assist you.\n\n\nSigning Into WordPress\n#\n\n\nUploading Media\n#\n\n\nAdding a Link\n#\n\n\nAdding Style to Format Text\n#", 
+            "text": "WordPress Basics\n#\n\n\nSigning Into WordPress\n#\n\n\nUploading Media\n#\n\n\nAdding a Link\n#\n\n\nAdding Style to Format Text\n#", 
             "title": "Getting Started"
+        }, 
+        {
+            "location": "/wordpress-basics/basics/#wordpress-basics", 
+            "text": "", 
+            "title": "WordPress Basics"
         }, 
         {
             "location": "/wordpress-basics/basics/#signing-into-wordpress", 
@@ -134,6 +139,26 @@
             "location": "/advanced/divi/#official-documentation", 
             "text": "Official documentation from Elegant Themes on the Divi Framework can be found online at the  Elegant Themes .", 
             "title": "Official Documentation"
+        }, 
+        {
+            "location": "/advanced/events/", 
+            "text": "Events Management\n#\n\n\nManaging Practices \n Training Seminars\n#\n\n\nManaging Events Listings for DockDogs Worldwide Events\n#", 
+            "title": "Working with Events"
+        }, 
+        {
+            "location": "/advanced/events/#events-management", 
+            "text": "", 
+            "title": "Events Management"
+        }, 
+        {
+            "location": "/advanced/events/#managing-practices-training-seminars", 
+            "text": "", 
+            "title": "Managing Practices &amp; Training Seminars"
+        }, 
+        {
+            "location": "/advanced/events/#managing-events-listings-for-dockdogs-worldwide-events", 
+            "text": "", 
+            "title": "Managing Events Listings for DockDogs Worldwide Events"
         }
     ]
 }
