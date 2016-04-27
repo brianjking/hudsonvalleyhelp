@@ -1,4 +1,4 @@
 mkdocs
 pymdown-extensions
 mkdocs-material
-fontawesome_markdown
+fontawesome-markdown
