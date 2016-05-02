@@ -42,7 +42,7 @@
         }, 
         {
             "location": "/wordpress-basics/basics/", 
-            "text": "WordPress Basics\n#\n\n\nSigning Into WordPress\n#\n\n\nUploading Media\n#\n\n\nAdding a Link\n#\n\n\nAdding Style to Format Text\n#\n\n\n\n\nYou can \nBOLD\n and \nITALICIZE\n or underline text in a format very much like you would using Microsoft Word while working inside of WordPress.\n\n\n\n\n\n\nNote\n\n\nIf you prefer keyboard shortcuts you can highlight the text you\nd like to apply basic styling to and use keyboard shortcuts. For example: Ctrl (Windows) or CMD (Mac OS) + B will apply bold formatting to highlighted text.", 
+            "text": "WordPress Basics\n#\n\n\nSigning Into WordPress\n#\n\n\nUploading Media\n#\n\n\nAdding a Link\n#\n\n\nAdding Style to Format Text\n#\n\n\n\n\nYou can \nBOLD\n and \nITALICIZE\n or underline text in a format very much like you would using Microsoft Word while working inside of WordPress.\n\n\n\n\n\n\nNote\n\n\nIf you prefer keyboard shortcuts you can highlight the text you\nd like to apply basic styling to and use keyboard shortcuts. \nFor example: Ctrl (Windows) or CMD (Mac OS) + B will apply bold formatting to highlighted text.", 
             "title": "Getting Started"
         }, 
         {
@@ -67,7 +67,7 @@
         }, 
         {
             "location": "/wordpress-basics/basics/#adding-style-to-format-text", 
-            "text": "You can  BOLD  and  ITALICIZE  or underline text in a format very much like you would using Microsoft Word while working inside of WordPress.    Note  If you prefer keyboard shortcuts you can highlight the text you d like to apply basic styling to and use keyboard shortcuts. For example: Ctrl (Windows) or CMD (Mac OS) + B will apply bold formatting to highlighted text.", 
+            "text": "You can  BOLD  and  ITALICIZE  or underline text in a format very much like you would using Microsoft Word while working inside of WordPress.    Note  If you prefer keyboard shortcuts you can highlight the text you d like to apply basic styling to and use keyboard shortcuts.  For example: Ctrl (Windows) or CMD (Mac OS) + B will apply bold formatting to highlighted text.", 
             "title": "Adding Style to Format Text"
         }, 
         {
@@ -107,7 +107,7 @@
         }, 
         {
             "location": "/wordpress-basics/forms/", 
-            "text": "The Hudson Valley DockDogs website uses two different methods for creating\nforms inside of WordPress.\n\n\nDivi Forms\n#\n\n\nFor basic contact forms the Hudson Valley DockDogs website uses the pre-built\nform engine built into the\n\nDivi Framework\n.\n\n\nContact Form 7 \n PayPal Forms\n#\n\n\nAll forms that integrate with PayPal for accepting payments utilize\n\nContact Form 7\n with a 3\nrd\n party PayPal integration.\n\n\nAdding A New PayPal Form\n#\n\n\nFrom your \nWordPress Admin Dashboard\n click on \nCONTACT\n in the left hand\nnavigation menu. From there\n\n\nEditing an Existing Forms\n#", 
+            "text": "The Hudson Valley DockDogs website uses two different methods for creating\nforms inside of WordPress.\n\n\nDivi Forms\n#\n\n\nFor basic contact forms the Hudson Valley DockDogs website uses the pre-built\nform engine built into the\n\nDivi Framework\n.\n\n\nContact Form 7 \n PayPal Forms\n#\n\n\nAll forms that integrate with PayPal for accepting payments utilize\n\nContact Form 7\n with a 3\nrd\n party PayPal integration.\n\n\n:fa-coffee:\n\n\nAdding A New PayPal Form\n#\n\n\nFrom your \nWordPress Admin Dashboard\n click on \nCONTACT\n in the left hand\nnavigation menu. From there\n\n\nEditing an Existing Forms\n#", 
             "title": "Working with Forms"
         }, 
         {
@@ -117,7 +117,7 @@
         }, 
         {
             "location": "/wordpress-basics/forms/#contact-form-7-paypal-forms", 
-            "text": "All forms that integrate with PayPal for accepting payments utilize Contact Form 7  with a 3 rd  party PayPal integration.", 
+            "text": "All forms that integrate with PayPal for accepting payments utilize Contact Form 7  with a 3 rd  party PayPal integration.  :fa-coffee:", 
             "title": "Contact Form 7 &amp; PayPal Forms"
         }, 
         {
