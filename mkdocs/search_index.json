@@ -42,7 +42,7 @@
         }, 
         {
             "location": "/wordpress-basics/basics/", 
-            "text": "WordPress Basics\n#\n\n\nSigning Into WordPress\n#\n\n\nUploading Media\n#\n\n\nAdding a Link\n#\n\n\nAdding Style to Format Text\n#\n\n\n\n\nYou can \nBOLD\n and \nITALICIZE\n or underline text in a format very much like you would using Microsoft Word while working inside of WordPress.\n\n\n\n\n\n\nNote\n\n\nIf you prefer keyboard shortcuts you can highlight the text you\nd like to apply basic styling to and use keyboard shortcuts. \nFor example: Ctrl (Windows) or CMD (Mac OS) + B will apply bold formatting to highlighted text.", 
+            "text": "WordPress Basics\n#\n\n\nSigning Into WordPress\n#\n\n\nUploading Media\n#\n\n\nUploading new media to WordPress such as photos for use in posts, pages, and galleries can easily be completed via your WordPress Admin console.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nMEDIA\n\n\nClick \nADD NEW\n\n\nNavigate to the location on your computer where the photos are located and select them.\n\n\nWait for your images to upload.\n\n\n\n\nAdding a Link\n#\n\n\nAdding Style to Format Text\n#\n\n\n\n\nYou can \nBOLD\n and \nITALICIZE\n or underline text in a format very much like you would using Microsoft Word while working inside of WordPress.\n\n\n\n\n\n\nNote\n\n\nIf you prefer keyboard shortcuts you can highlight the text you\nd like to apply basic styling to and use keyboard shortcuts. \nFor example: Ctrl (Windows) or CMD (Mac OS) + B will apply bold formatting to highlighted text.", 
             "title": "Getting Started"
         }, 
         {
@@ -57,7 +57,7 @@
         }, 
         {
             "location": "/wordpress-basics/basics/#uploading-media", 
-            "text": "", 
+            "text": "Uploading new media to WordPress such as photos for use in posts, pages, and galleries can easily be completed via your WordPress Admin console.   Login to WordPress Admin  Click on  MEDIA  Click  ADD NEW  Navigate to the location on your computer where the photos are located and select them.  Wait for your images to upload.", 
             "title": "Uploading Media"
         }, 
         {
