@@ -12,7 +12,7 @@ form engine built into the
 All forms that integrate with PayPal for accepting payments utilize
 [Contact Form 7](http://contactform7.com/) with a 3rd party PayPal integration.
 
-:fa-coffee:
+
 
 ### Adding A New PayPal Form
 
