@@ -5,6 +5,13 @@
 
 ## Uploading Media
 
+Uploading new media to WordPress such as photos for use in posts, pages, and galleries can easily be completed via your WordPress Admin console.
+
+* Login to WordPress Admin
+* Click on **MEDIA**
+* Click **ADD NEW**
+* Navigate to the location on your computer where the photos are located and select them.
+* Wait for your images to upload.
 
 ## Adding a Link
 
