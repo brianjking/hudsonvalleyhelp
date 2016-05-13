@@ -11,3 +11,4 @@
 
 ## Managing Events Listings for DockDogs Worldwide Events
 
+* For events that registration takes place on the DockDogs website.
