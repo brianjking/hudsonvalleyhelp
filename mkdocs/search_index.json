@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n#", 
+            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n#\n\n\nTHIS IS A WIP.\n#", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-the-hudson-valley-dockdogs-website-documentation-help", 
             "text": "", 
             "title": "Welcome to the Hudson Valley DockDogs Website Documentation &amp; Help"
+        }, 
+        {
+            "location": "/#this-is-a-wip", 
+            "text": "", 
+            "title": "THIS IS A WIP."
         }, 
         {
             "location": "/style-guide/color-scheme/", 
@@ -157,7 +162,7 @@
         }, 
         {
             "location": "/advanced/events/", 
-            "text": "Events Management\n#\n\n\n\n\nTip\n\n\nThe \nDIVI BUILDER\n CANNOT be used when editing Events instead of the WordPress Admin console. \n\n\n\n\nManaging Practices \n Training Seminars\n#\n\n\nManaging Events Listings for DockDogs Worldwide Events\n#", 
+            "text": "Events Management\n#\n\n\n\n\nTip\n\n\nThe \nDIVI BUILDER\n CANNOT be used when editing Events instead of the WordPress Admin console. \n\n\n\n\nManaging Practices \n Training Seminars\n#\n\n\nManaging Events Listings for DockDogs Worldwide Events\n#\n\n\n\n\nFor events that registration takes place on the DockDogs website.\n\n\n\n\n\n\nTip\n\n\nThings and such.", 
             "title": "Working with Events"
         }, 
         {
@@ -172,7 +177,7 @@
         }, 
         {
             "location": "/advanced/events/#managing-events-listings-for-dockdogs-worldwide-events", 
-            "text": "", 
+            "text": "For events that registration takes place on the DockDogs website.    Tip  Things and such.", 
             "title": "Managing Events Listings for DockDogs Worldwide Events"
         }
     ]
