@@ -16,14 +16,25 @@ All forms that integrate with PayPal for accepting payments utilize
 
 ### Adding A New PayPal Form
 
-From your **WordPress Admin Dashboard** click on **CONTACT** in the left hand
-navigation menu. 
+* Login to WordPress Admin Dashboard
+* Locate the **CONTACT** menu on the left hand side.
+* Select **ADD NEW** or **DUPLICATE** an existing form, such as the **INDIVIDUAL PAYPAL MEMBERSHIP FORM**
+* If you're creating a new form as opposed to duplicating a form you'll need to configure the PayPal details under the **PAYPAL** tab in the form creation area. 
+
+!!! note
+    To simplify the configuration it's likely best to **DUPLICATE** an existing form and then make your specific edits to copy of the original. 
 
 ### Editing an Existing PayPal Form
 
-* Click on 
+* Login to WordPress Admin Dashboard
+* Locate the **CONTACT** menu on the left hand side
+* Select **EDIT** under the name of the form you wish to edit
+* Make appropriate edits
+* Save the form
 
 ### Editing an Existing Divi Form (Non-PayPal Form)
+
+![Divi Forms Editing](../img/divi-form-edit.gif "Editing a Divi Form")
 
 * Login to WordPress Admin dashboard
 * Locate the **POST** or **PAGE** which has the existing **DIVI FORM** on it from the WordPress Admin Dashboard. _Note: This can be found from the **POSTS** or **PAGES** option on the left hand side menu._
