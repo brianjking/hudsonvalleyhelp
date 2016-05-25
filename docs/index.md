@@ -1,5 +1,4 @@
 # Welcome to the Hudson Valley DockDogs Website Documentation & Help
 
-## THIS IS A WIP.
-
+Please navigate using the menu options on the left hand side. 
 
