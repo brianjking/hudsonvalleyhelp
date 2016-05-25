@@ -2,18 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n#\n\n\nTHIS IS A WIP.\n#", 
+            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n#\n\n\nPlease navigate using the menu options on the left hand side.", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-the-hudson-valley-dockdogs-website-documentation-help", 
-            "text": "", 
+            "text": "Please navigate using the menu options on the left hand side.", 
             "title": "Welcome to the Hudson Valley DockDogs Website Documentation &amp; Help"
-        }, 
-        {
-            "location": "/#this-is-a-wip", 
-            "text": "", 
-            "title": "THIS IS A WIP."
         }, 
         {
             "location": "/style-guide/color-scheme/", 
