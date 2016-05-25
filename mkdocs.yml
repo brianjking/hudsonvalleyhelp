@@ -15,7 +15,6 @@ pages:
     - Working with Pages: wordpress-basics/pages.md
     - Working with Forms: wordpress-basics/forms.md
 - Advanced:
-    - Form Management: advanced/form-management.md
     - Working with Divi: advanced/divi.md
     - Working with Events: advanced/events.md
 theme: material
