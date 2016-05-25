@@ -157,7 +157,7 @@
         }, 
         {
             "location": "/advanced/events/", 
-            "text": "Events Management\n#\n\n\n\n\nTip\n\n\nThe \nDIVI BUILDER\n CANNOT be used when editing Events instead of the WordPress Admin console. \n\n\n\n\nManaging Practices \n Training Seminars\n#\n\n\nManaging Events Listings for DockDogs Worldwide Events\n#\n\n\n\n\nTip\n\n\nThe \nDIVI BUILDER\n CANNOT be used when editing Events instead of the WordPress Admin console.", 
+            "text": "Events Management\n#\n\n\n\n\nTip\n\n\nThe \nDIVI BUILDER\n CANNOT be used when editing Events instead of the WordPress Admin console. \n\n\n\n\nManaging Practices \n Training Seminars\n#\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on Events in the left hand menu\n\n\nClick Add New Event or \nDUPLICATE\n an existing event of the same type.\n\n\nEdit the cloned (duplicated) event, customizing the details and changing the date.\n\n\nSave the record.\n\n\nVisit \nhttps://hudsonvalleydockdogs.com/events\n to ensure the event appears on the website.\n\n\n\n\nManaging Events Listings for DockDogs Worldwide Events\n#\n\n\n\n\nTip\n\n\nTo easily manage the schedule simply visit the \nhttps://dockdogs.com\n event listing for your event and copy and paste the schedule into the body copy area. \n\n\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on Events in the left hand menu\n\n\nDUPLICATE an existing event of the same type\n\n\nCustomize the details (schedule, dates, registration links, etc)\n\n\nSave the event\n\n\nVisit the \nhttps://hudsonvalleydockdogs.com/events/\n page to ensure it\ns visible and looks correct.", 
             "title": "Working with Events"
         }, 
         {
@@ -167,12 +167,12 @@
         }, 
         {
             "location": "/advanced/events/#managing-practices-training-seminars", 
-            "text": "", 
+            "text": "Login to WordPress Admin  Click on Events in the left hand menu  Click Add New Event or  DUPLICATE  an existing event of the same type.  Edit the cloned (duplicated) event, customizing the details and changing the date.  Save the record.  Visit  https://hudsonvalleydockdogs.com/events  to ensure the event appears on the website.", 
             "title": "Managing Practices &amp; Training Seminars"
         }, 
         {
             "location": "/advanced/events/#managing-events-listings-for-dockdogs-worldwide-events", 
-            "text": "Tip  The  DIVI BUILDER  CANNOT be used when editing Events instead of the WordPress Admin console.", 
+            "text": "Tip  To easily manage the schedule simply visit the  https://dockdogs.com  event listing for your event and copy and paste the schedule into the body copy area.     Login to WordPress Admin  Click on Events in the left hand menu  DUPLICATE an existing event of the same type  Customize the details (schedule, dates, registration links, etc)  Save the event  Visit the  https://hudsonvalleydockdogs.com/events/  page to ensure it s visible and looks correct.", 
             "title": "Managing Events Listings for DockDogs Worldwide Events"
         }
     ]
