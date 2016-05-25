@@ -112,7 +112,7 @@
         }, 
         {
             "location": "/wordpress-basics/forms/", 
-            "text": "The Hudson Valley DockDogs website uses two different methods for creating\nforms inside of WordPress.\n\n\nDivi Forms\n#\n\n\nFor basic contact forms the Hudson Valley DockDogs website uses the pre-built\nform engine built into the\n\nDivi Framework\n.\n\n\nContact Form 7 \n PayPal Forms\n#\n\n\nAll forms that integrate with PayPal for accepting payments utilize\n\nContact Form 7\n with a 3\nrd\n party PayPal integration.\n\n\nAdding A New PayPal Form\n#\n\n\nFrom your \nWordPress Admin Dashboard\n click on \nCONTACT\n in the left hand\nnavigation menu. \n\n\nEditing an Existing PayPal Form\n#\n\n\n\n\nClick on \n\n\n\n\nEditing an Existing Divi Form (Non-PayPal Form)\n#\n\n\n\n\nLogin to WordPress Admin dashboard\n\n\nLocate the \nPOST\n or \nPAGE\n which has the existing \nDIVI FORM\n on it from the WordPress Admin Dashboard. \nNote: This can be found from the \nPOSTS\n or \nPAGES\n option on the left hand side menu.\n\n\nSelect \nEDIT\n on the relevant post/page.\n\n\nUsing the \nDIVI BUILDER\n locate the contact form field on this post/page and select to edit it.\n\n\nMake your edits\n\n\nSave the record\n\n\nUpdate the post/page", 
+            "text": "The Hudson Valley DockDogs website uses two different methods for creating\nforms inside of WordPress.\n\n\nDivi Forms\n#\n\n\nFor basic contact forms the Hudson Valley DockDogs website uses the pre-built\nform engine built into the\n\nDivi Framework\n.\n\n\nContact Form 7 \n PayPal Forms\n#\n\n\nAll forms that integrate with PayPal for accepting payments utilize\n\nContact Form 7\n with a 3\nrd\n party PayPal integration.\n\n\nAdding A New PayPal Form\n#\n\n\n\n\nLogin to WordPress Admin Dashboard\n\n\nLocate the \nCONTACT\n menu on the left hand side.\n\n\nSelect \nADD NEW\n or \nDUPLICATE\n an existing form, such as the \nINDIVIDUAL PAYPAL MEMBERSHIP FORM\n\n\nIf you\nre creating a new form as opposed to duplicating a form you\nll need to configure the PayPal details under the \nPAYPAL\n tab in the form creation area. \n\n\n\n\n\n\nNote\n\n\nTo simplify the configuration it\ns likely best to \nDUPLICATE\n an existing form and then make your specific edits to copy of the original. \n\n\n\n\nEditing an Existing PayPal Form\n#\n\n\n\n\nLogin to WordPress Admin Dashboard\n\n\nLocate the \nCONTACT\n menu on the left hand side\n\n\nSelect \nEDIT\n under the name of the form you wish to edit\n\n\nMake appropriate edits\n\n\nSave the form\n\n\n\n\nEditing an Existing Divi Form (Non-PayPal Form)\n#\n\n\n\n\n\n\nLogin to WordPress Admin dashboard\n\n\nLocate the \nPOST\n or \nPAGE\n which has the existing \nDIVI FORM\n on it from the WordPress Admin Dashboard. \nNote: This can be found from the \nPOSTS\n or \nPAGES\n option on the left hand side menu.\n\n\nSelect \nEDIT\n on the relevant post/page.\n\n\nUsing the \nDIVI BUILDER\n locate the contact form field on this post/page and select to edit it.\n\n\nMake your edits\n\n\nSave the record\n\n\nUpdate the post/page", 
             "title": "Working with Forms"
         }, 
         {
@@ -127,12 +127,12 @@
         }, 
         {
             "location": "/wordpress-basics/forms/#adding-a-new-paypal-form", 
-            "text": "From your  WordPress Admin Dashboard  click on  CONTACT  in the left hand\nnavigation menu.", 
+            "text": "Login to WordPress Admin Dashboard  Locate the  CONTACT  menu on the left hand side.  Select  ADD NEW  or  DUPLICATE  an existing form, such as the  INDIVIDUAL PAYPAL MEMBERSHIP FORM  If you re creating a new form as opposed to duplicating a form you ll need to configure the PayPal details under the  PAYPAL  tab in the form creation area.     Note  To simplify the configuration it s likely best to  DUPLICATE  an existing form and then make your specific edits to copy of the original.", 
             "title": "Adding A New PayPal Form"
         }, 
         {
             "location": "/wordpress-basics/forms/#editing-an-existing-paypal-form", 
-            "text": "Click on", 
+            "text": "Login to WordPress Admin Dashboard  Locate the  CONTACT  menu on the left hand side  Select  EDIT  under the name of the form you wish to edit  Make appropriate edits  Save the form", 
             "title": "Editing an Existing PayPal Form"
         }, 
         {
