@@ -17,12 +17,12 @@
         }, 
         {
             "location": "/style-guide/color-scheme/", 
-            "text": "Hudson Valley DockDogs Website Style Guide\n#\n\n\nColor Hex Codes\n#\n\n\n\n\n#a3daff\n\n\n#1ec0ff\n\n\n#0080ff\n\n\n#03a6ff\n\n\n\n\nExample Colors\n#", 
+            "text": "Hudson Valley DockDogs Website Style Guide\n#\n\n\nThe Hudson Valley DockDogs website is styled with the color scheme based on the colors below. \n\n\nThese colors should be maintained in any additional pages or posts created in the website to maintain a consistent look throughout the Hudson Valley DockDogs website.\n\n\nColor Hex Codes\n#\n\n\n\n\n#a3daff\n\n\n#1ec0ff\n\n\n#0080ff\n\n\n#03a6ff\n\n\n\n\nExample Colors\n#", 
             "title": "Color Scheme"
         }, 
         {
             "location": "/style-guide/color-scheme/#hudson-valley-dockdogs-website-style-guide", 
-            "text": "", 
+            "text": "The Hudson Valley DockDogs website is styled with the color scheme based on the colors below.   These colors should be maintained in any additional pages or posts created in the website to maintain a consistent look throughout the Hudson Valley DockDogs website.", 
             "title": "Hudson Valley DockDogs Website Style Guide"
         }, 
         {
@@ -37,12 +37,12 @@
         }, 
         {
             "location": "/style-guide/typefaces/", 
-            "text": "Typefaces\n#", 
+            "text": "Typefaces\n#\n\n\nThe Hudson Valley DockDogs website should maintain the typefaces preconfigured throughout the website for all new posts and pages. Using these preconfigured typefaces along with the color scheme will maintain readability and consistency throughout the website.", 
             "title": "Typefaces"
         }, 
         {
             "location": "/style-guide/typefaces/#typefaces", 
-            "text": "", 
+            "text": "The Hudson Valley DockDogs website should maintain the typefaces preconfigured throughout the website for all new posts and pages. Using these preconfigured typefaces along with the color scheme will maintain readability and consistency throughout the website.", 
             "title": "Typefaces"
         }, 
         {
@@ -112,7 +112,7 @@
         }, 
         {
             "location": "/wordpress-basics/forms/", 
-            "text": "The Hudson Valley DockDogs website uses two different methods for creating\nforms inside of WordPress.\n\n\nDivi Forms\n#\n\n\nFor basic contact forms the Hudson Valley DockDogs website uses the pre-built\nform engine built into the\n\nDivi Framework\n.\n\n\nContact Form 7 \n PayPal Forms\n#\n\n\nAll forms that integrate with PayPal for accepting payments utilize\n\nContact Form 7\n with a 3\nrd\n party PayPal integration.\n\n\nAdding A New PayPal Form\n#\n\n\nFrom your \nWordPress Admin Dashboard\n click on \nCONTACT\n in the left hand\nnavigation menu. From there\n\n\nEditing an Existing Forms\n#", 
+            "text": "The Hudson Valley DockDogs website uses two different methods for creating\nforms inside of WordPress.\n\n\nDivi Forms\n#\n\n\nFor basic contact forms the Hudson Valley DockDogs website uses the pre-built\nform engine built into the\n\nDivi Framework\n.\n\n\nContact Form 7 \n PayPal Forms\n#\n\n\nAll forms that integrate with PayPal for accepting payments utilize\n\nContact Form 7\n with a 3\nrd\n party PayPal integration.\n\n\nAdding A New PayPal Form\n#\n\n\nFrom your \nWordPress Admin Dashboard\n click on \nCONTACT\n in the left hand\nnavigation menu. \n\n\nEditing an Existing PayPal Form\n#\n\n\n\n\nClick on \n\n\n\n\nEditing an Existing Divi Form (Non-PayPal Form)\n#\n\n\n\n\nLogin to WordPress Admin dashboard\n\n\nLocate the \nPOST\n or \nPAGE\n which has the existing \nDIVI FORM\n on it from the WordPress Admin Dashboard. \nNote: This can be found from the \nPOSTS\n or \nPAGES\n option on the left hand side menu.\n\n\nSelect \nEDIT\n on the relevant post/page.\n\n\nUsing the \nDIVI BUILDER\n locate the contact form field on this post/page and select to edit it.\n\n\nMake your edits\n\n\nSave the record\n\n\nUpdate the post/page", 
             "title": "Working with Forms"
         }, 
         {
@@ -127,13 +127,18 @@
         }, 
         {
             "location": "/wordpress-basics/forms/#adding-a-new-paypal-form", 
-            "text": "From your  WordPress Admin Dashboard  click on  CONTACT  in the left hand\nnavigation menu. From there", 
+            "text": "From your  WordPress Admin Dashboard  click on  CONTACT  in the left hand\nnavigation menu.", 
             "title": "Adding A New PayPal Form"
         }, 
         {
-            "location": "/wordpress-basics/forms/#editing-an-existing-forms", 
-            "text": "", 
-            "title": "Editing an Existing Forms"
+            "location": "/wordpress-basics/forms/#editing-an-existing-paypal-form", 
+            "text": "Click on", 
+            "title": "Editing an Existing PayPal Form"
+        }, 
+        {
+            "location": "/wordpress-basics/forms/#editing-an-existing-divi-form-non-paypal-form", 
+            "text": "Login to WordPress Admin dashboard  Locate the  POST  or  PAGE  which has the existing  DIVI FORM  on it from the WordPress Admin Dashboard.  Note: This can be found from the  POSTS  or  PAGES  option on the left hand side menu.  Select  EDIT  on the relevant post/page.  Using the  DIVI BUILDER  locate the contact form field on this post/page and select to edit it.  Make your edits  Save the record  Update the post/page", 
+            "title": "Editing an Existing Divi Form (Non-PayPal Form)"
         }, 
         {
             "location": "/advanced/form-management/", 
