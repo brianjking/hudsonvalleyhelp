@@ -141,16 +141,6 @@
             "title": "Editing an Existing Divi Form (Non-PayPal Form)"
         }, 
         {
-            "location": "/advanced/form-management/", 
-            "text": "Advanced Form Management\n#", 
-            "title": "Form Management"
-        }, 
-        {
-            "location": "/advanced/form-management/#advanced-form-management", 
-            "text": "", 
-            "title": "Advanced Form Management"
-        }, 
-        {
             "location": "/advanced/divi/", 
             "text": "Working With Divi Theme \n Divi Builder\n#\n\n\n\n\nOfficial Documentation\n#\n\n\nOfficial documentation from Elegant Themes on the Divi Framework can be found online at the \nElegant Themes\n.", 
             "title": "Working with Divi"
@@ -167,7 +157,7 @@
         }, 
         {
             "location": "/advanced/events/", 
-            "text": "Events Management\n#\n\n\n\n\nTip\n\n\nThe \nDIVI BUILDER\n CANNOT be used when editing Events instead of the WordPress Admin console. \n\n\n\n\nManaging Practices \n Training Seminars\n#\n\n\nManaging Events Listings for DockDogs Worldwide Events\n#\n\n\n\n\nFor events that registration takes place on the DockDogs website.\n\n\n\n\n\n\nTip\n\n\nThings and such.", 
+            "text": "Events Management\n#\n\n\n\n\nTip\n\n\nThe \nDIVI BUILDER\n CANNOT be used when editing Events instead of the WordPress Admin console. \n\n\n\n\nManaging Practices \n Training Seminars\n#\n\n\nManaging Events Listings for DockDogs Worldwide Events\n#\n\n\n\n\nTip\n\n\nThe \nDIVI BUILDER\n CANNOT be used when editing Events instead of the WordPress Admin console.", 
             "title": "Working with Events"
         }, 
         {
@@ -182,7 +172,7 @@
         }, 
         {
             "location": "/advanced/events/#managing-events-listings-for-dockdogs-worldwide-events", 
-            "text": "For events that registration takes place on the DockDogs website.    Tip  Things and such.", 
+            "text": "Tip  The  DIVI BUILDER  CANNOT be used when editing Events instead of the WordPress Admin console.", 
             "title": "Managing Events Listings for DockDogs Worldwide Events"
         }
     ]
