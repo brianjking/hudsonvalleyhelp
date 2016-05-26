@@ -11,6 +11,12 @@ WordPress sites are primarily comprised of a combination of **POSTS** and
 
 ### Adding A New Post
 
+* Access the WordPress Admin Dashboard
+* Click on **POSTS** from the left hand menu.
+* Click on **ADD NEW** 
+* Enter a post title
+* Type your post text into the box below.
+* Save your post with the **PUBLISH** button
+* Visit the website to confirm your post looks correct.
 
-### Editing An Existing Post
 
