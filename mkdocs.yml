@@ -6,9 +6,6 @@ repo_url: https://github.com/brianjking/hudsonvalleyhelp
 site_url: http://help.hudsonvalleydockdogs.com
 pages:
 - Home: index.md
-- Style Guide:
-    - Color Scheme: style-guide/color-scheme.md
-    - Typefaces: style-guide/typefaces.md
 - WordPress Basics:
     - Getting Started: wordpress-basics/basics.md
     - Working with Posts: wordpress-basics/posts.md
@@ -17,6 +14,9 @@ pages:
 - Advanced:
     - Working with Divi: advanced/divi.md
     - Working with Events: advanced/events.md
+- Style Guide:
+    - Color Scheme: style-guide/color-scheme.md
+    - Typefaces: style-guide/typefaces.md
 theme: material
 markdown_extensions:
     - toc:
