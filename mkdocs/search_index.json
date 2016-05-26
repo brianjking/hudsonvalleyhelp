@@ -11,36 +11,6 @@
             "title": "Welcome to the Hudson Valley DockDogs Website Documentation &amp; Help"
         }, 
         {
-            "location": "/style-guide/color-scheme/", 
-            "text": "Hudson Valley DockDogs Website Style Guide\n#\n\n\nThe Hudson Valley DockDogs website is styled with the color scheme based on the colors below. \n\n\nThese colors should be maintained in any additional pages or posts created in the website to maintain a consistent look throughout the Hudson Valley DockDogs website.\n\n\nColor Hex Codes\n#\n\n\n\n\n#a3daff\n\n\n#1ec0ff\n\n\n#0080ff\n\n\n#03a6ff\n\n\n\n\nExample Colors\n#", 
-            "title": "Color Scheme"
-        }, 
-        {
-            "location": "/style-guide/color-scheme/#hudson-valley-dockdogs-website-style-guide", 
-            "text": "The Hudson Valley DockDogs website is styled with the color scheme based on the colors below.   These colors should be maintained in any additional pages or posts created in the website to maintain a consistent look throughout the Hudson Valley DockDogs website.", 
-            "title": "Hudson Valley DockDogs Website Style Guide"
-        }, 
-        {
-            "location": "/style-guide/color-scheme/#color-hex-codes", 
-            "text": "#a3daff  #1ec0ff  #0080ff  #03a6ff", 
-            "title": "Color Hex Codes"
-        }, 
-        {
-            "location": "/style-guide/color-scheme/#example-colors", 
-            "text": "", 
-            "title": "Example Colors"
-        }, 
-        {
-            "location": "/style-guide/typefaces/", 
-            "text": "Typefaces\n#\n\n\nThe Hudson Valley DockDogs website should maintain the typefaces preconfigured throughout the website for all new posts and pages. Using these preconfigured typefaces along with the color scheme will maintain readability and consistency throughout the website.", 
-            "title": "Typefaces"
-        }, 
-        {
-            "location": "/style-guide/typefaces/#typefaces", 
-            "text": "The Hudson Valley DockDogs website should maintain the typefaces preconfigured throughout the website for all new posts and pages. Using these preconfigured typefaces along with the color scheme will maintain readability and consistency throughout the website.", 
-            "title": "Typefaces"
-        }, 
-        {
             "location": "/wordpress-basics/basics/", 
             "text": "WordPress Basics\n#\n\n\nThis page will walk you through some of the basic formatting functions the administrator of the Hudson Valley DockDogs website will need to perform.\n\n\nSigning Into WordPress\n#\n\n\nTo administer content on the \nHudson Valley DockDogs Website\n you will need to login to the WordPress Admin console.\n\n\n\n\nVisit \nhttps://hudsonvalleydockdogs.com/wp-login.php\n\n\nEnter your username \n\n\nEnter your password\n\n\nLogin\n\n\n\n\nUploading Media\n#\n\n\nUploading new media to WordPress such as photos for use in posts, pages, and galleries can easily be completed via your WordPress Admin console.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nMEDIA\n\n\nClick \nADD NEW\n\n\nNavigate to the location on your computer where the photos are located and select them.\n\n\nWait for your images to upload.\n\n\n\n\n\n\nNote\n\n\nPlease note that images may take a while to upload as they are optimized via compressing the image as well as resizing to ensure they can be used in the various locations throughout the website.\n\n\n\n\nAdding a Link\n#\n\n\nIf you wish to add a link to another page/post inside of the Hudson Valley DockDogs website or to another website you can do so via the \nWYSIWYG\n editor built into WordPress. (Note: \nWYSIWYG\n stands for \nWHAT YOU SEE IS WHAT YOU GET\n)\n\n\n\n\nHighlight the text you wish to have the link added to from the page/post you\nre working on from the WordPress Admin Console.\n\n\nClick on the link icon\n\n\nPaste in the website address you want the link to go to.\n\n\n\n\n\n\nAdding Style to Format Text\n#\n\n\n\n\nYou can \nBOLD\n and \nITALICIZE\n or underline text in a format very much like you would using Microsoft Word while working inside of WordPress.\n\n\n\n\n\n\nNote\n\n\nIf you prefer keyboard shortcuts you can highlight the text you\nd like to apply basic styling to and use keyboard shortcuts. \nFor example: Ctrl (Windows) or CMD (Mac OS) + B will apply bold formatting to highlighted text.", 
             "title": "Getting Started"
@@ -169,6 +139,36 @@
             "location": "/advanced/events/#managing-events-listings-for-dockdogs-worldwide-events", 
             "text": "Tip  To easily manage the schedule simply visit the  https://dockdogs.com  event listing for your event and copy and paste the schedule into the body copy area.     Login to WordPress Admin  Click on Events in the left hand menu  DUPLICATE an existing event of the same type  Customize the details (schedule, dates, registration links, etc)  Save the event  Visit the  https://hudsonvalleydockdogs.com/events/  page to ensure it s visible and looks correct.", 
             "title": "Managing Events Listings for DockDogs Worldwide Events"
+        }, 
+        {
+            "location": "/style-guide/color-scheme/", 
+            "text": "Hudson Valley DockDogs Website Style Guide\n#\n\n\nThe Hudson Valley DockDogs website is styled with the color scheme based on the colors below. \n\n\nThese colors should be maintained in any additional pages or posts created in the website to maintain a consistent look throughout the Hudson Valley DockDogs website.\n\n\nColor Hex Codes\n#\n\n\n\n\n#a3daff\n\n\n#1ec0ff\n\n\n#0080ff\n\n\n#03a6ff\n\n\n\n\nExample Colors\n#", 
+            "title": "Color Scheme"
+        }, 
+        {
+            "location": "/style-guide/color-scheme/#hudson-valley-dockdogs-website-style-guide", 
+            "text": "The Hudson Valley DockDogs website is styled with the color scheme based on the colors below.   These colors should be maintained in any additional pages or posts created in the website to maintain a consistent look throughout the Hudson Valley DockDogs website.", 
+            "title": "Hudson Valley DockDogs Website Style Guide"
+        }, 
+        {
+            "location": "/style-guide/color-scheme/#color-hex-codes", 
+            "text": "#a3daff  #1ec0ff  #0080ff  #03a6ff", 
+            "title": "Color Hex Codes"
+        }, 
+        {
+            "location": "/style-guide/color-scheme/#example-colors", 
+            "text": "", 
+            "title": "Example Colors"
+        }, 
+        {
+            "location": "/style-guide/typefaces/", 
+            "text": "Typefaces\n#\n\n\nThe Hudson Valley DockDogs website should maintain the typefaces preconfigured throughout the website for all new posts and pages. Using these preconfigured typefaces along with the color scheme will maintain readability and consistency throughout the website.", 
+            "title": "Typefaces"
+        }, 
+        {
+            "location": "/style-guide/typefaces/#typefaces", 
+            "text": "The Hudson Valley DockDogs website should maintain the typefaces preconfigured throughout the website for all new posts and pages. Using these preconfigured typefaces along with the color scheme will maintain readability and consistency throughout the website.", 
+            "title": "Typefaces"
         }
     ]
 }
