@@ -42,7 +42,7 @@
         }, 
         {
             "location": "/wordpress-basics/posts/", 
-            "text": "WordPress Posts\n#\n\n\nWordPress sites are primarily comprised of a combination of \nPOSTS\n and\n\nPAGES\n.\n\n\nWhen To Use a Post Versus a Page\n#\n\n\n\n\nTip\n\n\nThe \nPOSTS\n functionality should be used when you\nre adding news or another similar update. You will primarily be \nEDITING PAGES\n or \nADDING POSTS\n as all pages should be already created during the initial site buildout. \n\n\n\n\nAdding A New Post\n#\n\n\nEditing An Existing Post\n#", 
+            "text": "WordPress Posts\n#\n\n\nWordPress sites are primarily comprised of a combination of \nPOSTS\n and\n\nPAGES\n.\n\n\nWhen To Use a Post Versus a Page\n#\n\n\n\n\nTip\n\n\nThe \nPOSTS\n functionality should be used when you\nre adding news or another similar update. You will primarily be \nEDITING PAGES\n or \nADDING POSTS\n as all pages should be already created during the initial site buildout. \n\n\n\n\nAdding A New Post\n#\n\n\n\n\nAccess the WordPress Admin Dashboard\n\n\nClick on \nPOSTS\n from the left hand menu.\n\n\nClick on \nADD NEW\n \n\n\nEnter a post title\n\n\nType your post text into the box below.\n\n\nSave your post with the \nPUBLISH\n button\n\n\nVisit the website to confirm your post looks correct.", 
             "title": "Working with Posts"
         }, 
         {
@@ -57,13 +57,8 @@
         }, 
         {
             "location": "/wordpress-basics/posts/#adding-a-new-post", 
-            "text": "", 
+            "text": "Access the WordPress Admin Dashboard  Click on  POSTS  from the left hand menu.  Click on  ADD NEW    Enter a post title  Type your post text into the box below.  Save your post with the  PUBLISH  button  Visit the website to confirm your post looks correct.", 
             "title": "Adding A New Post"
-        }, 
-        {
-            "location": "/wordpress-basics/posts/#editing-an-existing-post", 
-            "text": "", 
-            "title": "Editing An Existing Post"
         }, 
         {
             "location": "/wordpress-basics/pages/", 
