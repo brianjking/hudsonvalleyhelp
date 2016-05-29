@@ -28,7 +28,7 @@ markdown_extensions:
 
 # Options
 extra:
-  #version: '0.1.0'
+  version: '1.0'
   logo: 'img/logo.png'
   palette:
     primary: 'light blue'
