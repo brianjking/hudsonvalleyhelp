@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n#\n\n\nPlease navigate using the menu options on the left hand side.", 
+            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n#\n\n\nPlease navigate using the menu options on the left hand side.\n\n\nLicense\n#\n\n\nAll content in this guide is (C) Copyright 2016 \nBrian J King\n \n \nHudson Valley DockDogs\n, unless otherwise noted.", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-the-hudson-valley-dockdogs-website-documentation-help", 
             "text": "Please navigate using the menu options on the left hand side.", 
             "title": "Welcome to the Hudson Valley DockDogs Website Documentation &amp; Help"
+        }, 
+        {
+            "location": "/#license", 
+            "text": "All content in this guide is (C) Copyright 2016  Brian J King     Hudson Valley DockDogs , unless otherwise noted.", 
+            "title": "License"
         }, 
         {
             "location": "/wordpress-basics/basics/", 
