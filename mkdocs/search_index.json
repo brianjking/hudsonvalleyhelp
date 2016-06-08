@@ -2,18 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n#\n\n\nPlease navigate using the menu options on the left hand side.\n\n\nLicense\n#\n\n\nAll content in this guide is (C) Copyright 2016 \nBrian J King\n \n \nHudson Valley DockDogs\n, unless otherwise noted.", 
+            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n#\n\n\nPlease navigate using the menu options on the left hand side.", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-the-hudson-valley-dockdogs-website-documentation-help", 
             "text": "Please navigate using the menu options on the left hand side.", 
             "title": "Welcome to the Hudson Valley DockDogs Website Documentation &amp; Help"
-        }, 
-        {
-            "location": "/#license", 
-            "text": "All content in this guide is (C) Copyright 2016  Brian J King     Hudson Valley DockDogs , unless otherwise noted.", 
-            "title": "License"
         }, 
         {
             "location": "/wordpress-basics/basics/", 
@@ -47,7 +42,7 @@
         }, 
         {
             "location": "/wordpress-basics/posts/", 
-            "text": "WordPress Posts\n#\n\n\nWordPress sites are primarily comprised of a combination of \nPOSTS\n and\n\nPAGES\n.\n\n\nWhen To Use a Post Versus a Page\n#\n\n\n\n\nTip\n\n\nThe \nPOSTS\n functionality should be used when you\nre adding news or another similar update. You will primarily be \nEDITING PAGES\n or \nADDING POSTS\n as all pages should be already created during the initial site buildout. \n\n\n\n\nAdding A New Post\n#\n\n\n\n\nAccess the WordPress Admin Dashboard\n\n\nClick on \nPOSTS\n from the left hand menu.\n\n\nClick on \nADD NEW\n \n\n\nEnter a post title\n\n\nType your post text into the box below.\n\n\nSave your post with the \nPUBLISH\n button\n\n\nVisit the website to confirm your post looks correct.", 
+            "text": "WordPress Posts\n#\n\n\nWordPress sites are primarily comprised of a combination of \nPOSTS\n and\n\nPAGES\n.\n\n\nWhen To Use a Post Versus a Page\n#\n\n\n\n\nTip\n\n\nThe \nPOSTS\n functionality should be used when you\nre adding news or another similar update. You will primarily be \nEDITING PAGES\n or \nADDING POSTS\n as all pages should be already created during the initial site buildout.\n\n\n\n\nAdding A New Post\n#\n\n\n\n\nAccess the WordPress Admin Dashboard\n\n\nClick on \nPOSTS\n from the left hand menu.\n\n\nClick on \nADD NEW\n\n\nEnter a post title\n\n\nType your post text into the box below.\n\n\nSave your post with the \nPUBLISH\n button\n\n\nVisit the website to confirm your post looks correct.\n\n\n\n\nCreating A Photo Gallery\n#\n\n\n\n\nAccess the WordPress Admin Dashboard\n\n\nClick on \nPOSTS\n from the left hand menu.\n\n\nClick on \nADD NEW\n\n\nEnter a post title\n\n\nClick \nADD MEDIA\n above the post body area.\n\n\nSelect the photos you\nd like to add to your new photo album.\n\n\nClick \nCREATE GALLERY\n\n\nPublish the post\n\n\nVisit the \nnews page\n to see the newly created photo gallery.", 
             "title": "Working with Posts"
         }, 
         {
@@ -62,8 +57,13 @@
         }, 
         {
             "location": "/wordpress-basics/posts/#adding-a-new-post", 
-            "text": "Access the WordPress Admin Dashboard  Click on  POSTS  from the left hand menu.  Click on  ADD NEW    Enter a post title  Type your post text into the box below.  Save your post with the  PUBLISH  button  Visit the website to confirm your post looks correct.", 
+            "text": "Access the WordPress Admin Dashboard  Click on  POSTS  from the left hand menu.  Click on  ADD NEW  Enter a post title  Type your post text into the box below.  Save your post with the  PUBLISH  button  Visit the website to confirm your post looks correct.", 
             "title": "Adding A New Post"
+        }, 
+        {
+            "location": "/wordpress-basics/posts/#creating-a-photo-gallery", 
+            "text": "Access the WordPress Admin Dashboard  Click on  POSTS  from the left hand menu.  Click on  ADD NEW  Enter a post title  Click  ADD MEDIA  above the post body area.  Select the photos you d like to add to your new photo album.  Click  CREATE GALLERY  Publish the post  Visit the  news page  to see the newly created photo gallery.", 
+            "title": "Creating A Photo Gallery"
         }, 
         {
             "location": "/wordpress-basics/pages/", 
