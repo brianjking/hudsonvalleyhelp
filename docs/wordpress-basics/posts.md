@@ -34,5 +34,5 @@ WordPress sites are primarily comprised of a combination of **POSTS** and
 
 ![Divi Forms Editing](../img/divi-gallery-example.png "Editing a Divi Form")
 
-!!! tip
+!!! info
     An example photo gallery post is available via the [WordPress Admin](https://hudsonvalleydockdogs.com/wp-admin/post.php?post=24590&action=edit)
