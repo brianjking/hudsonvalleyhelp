@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n#\n\n\nPlease navigate using the menu options on the left hand side.\n\n\nLicense\n#\n\n\nAll content in this guide is (C) Copyright 2016 \nBrian J King\n \n \nHudson Valley DockDogs\n, unless otherwise noted.", 
+            "text": "Welcome to the Hudson Valley DockDogs Website Documentation \n Help\n\n\nPlease navigate using the menu options on the left hand side.\n\n\nLicense\n\n\nAll content in this guide is (C) Copyright 2016 \nBrian J King\n \n \nHudson Valley DockDogs\n, unless otherwise noted.", 
             "title": "Home"
         }, 
         {
@@ -17,7 +17,7 @@
         }, 
         {
             "location": "/wordpress-basics/basics/", 
-            "text": "WordPress Basics\n#\n\n\nThis page will walk you through some of the basic formatting functions the administrator of the Hudson Valley DockDogs website will need to perform.\n\n\nSigning Into WordPress\n#\n\n\nTo administer content on the \nHudson Valley DockDogs Website\n you will need to login to the WordPress Admin console.\n\n\n\n\nVisit \nhttps://hudsonvalleydockdogs.com/wp-login.php\n\n\nEnter your username \n\n\nEnter your password\n\n\nLogin\n\n\n\n\nUploading Media\n#\n\n\nUploading new media to WordPress such as photos for use in posts, pages, and galleries can easily be completed via your WordPress Admin console.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nMEDIA\n\n\nClick \nADD NEW\n\n\nNavigate to the location on your computer where the photos are located and select them.\n\n\nWait for your images to upload.\n\n\n\n\n\n\nNote\n\n\nPlease note that images may take a while to upload as they are optimized via compressing the image as well as resizing to ensure they can be used in the various locations throughout the website.\n\n\n\n\nAdding a Link\n#\n\n\nIf you wish to add a link to another page/post inside of the Hudson Valley DockDogs website or to another website you can do so via the \nWYSIWYG\n editor built into WordPress. (Note: \nWYSIWYG\n stands for \nWHAT YOU SEE IS WHAT YOU GET\n)\n\n\n\n\nHighlight the text you wish to have the link added to from the page/post you\nre working on from the WordPress Admin Console.\n\n\nClick on the link icon\n\n\nPaste in the website address you want the link to go to.\n\n\n\n\n\n\nAdding Style to Format Text\n#\n\n\n\n\nYou can \nBOLD\n and \nITALICIZE\n or underline text in a format very much like you would using Microsoft Word while working inside of WordPress.\n\n\n\n\n\n\nNote\n\n\nIf you prefer keyboard shortcuts you can highlight the text you\nd like to apply basic styling to and use keyboard shortcuts. \nFor example: Ctrl (Windows) or CMD (Mac OS) + B will apply bold formatting to highlighted text.", 
+            "text": "WordPress Basics\n\n\nThis page will walk you through some of the basic formatting functions the administrator of the Hudson Valley DockDogs website will need to perform.\n\n\nSigning Into WordPress\n\n\nTo administer content on the \nHudson Valley DockDogs Website\n you will need to login to the WordPress Admin console.\n\n\n\n\nVisit \nhttps://hudsonvalleydockdogs.com/wp-login.php\n\n\nEnter your username \n\n\nEnter your password\n\n\nLogin\n\n\n\n\nUploading Media\n\n\nUploading new media to WordPress such as photos for use in posts, pages, and galleries can easily be completed via your WordPress Admin console.\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on \nMEDIA\n\n\nClick \nADD NEW\n\n\nNavigate to the location on your computer where the photos are located and select them.\n\n\nWait for your images to upload.\n\n\n\n\n\n\nNote\n\n\nPlease note that images may take a while to upload as they are optimized via compressing the image as well as resizing to ensure they can be used in the various locations throughout the website.\n\n\n\n\nAdding a Link\n\n\nIf you wish to add a link to another page/post inside of the Hudson Valley DockDogs website or to another website you can do so via the \nWYSIWYG\n editor built into WordPress. (Note: \nWYSIWYG\n stands for \nWHAT YOU SEE IS WHAT YOU GET\n)\n\n\n\n\nHighlight the text you wish to have the link added to from the page/post you're working on from the WordPress Admin Console.\n\n\nClick on the link icon\n\n\nPaste in the website address you want the link to go to.\n\n\n\n\n\n\nAdding Style to Format Text\n\n\n\n\nYou can \nBOLD\n and \nITALICIZE\n or underline text in a format very much like you would using Microsoft Word while working inside of WordPress.\n\n\n\n\n\n\nNote\n\n\nIf you prefer keyboard shortcuts you can highlight the text you'd like to apply basic styling to and use keyboard shortcuts. \nFor example: Ctrl (Windows) or CMD (Mac OS) + B will apply bold formatting to highlighted text.", 
             "title": "Getting Started"
         }, 
         {
@@ -37,17 +37,17 @@
         }, 
         {
             "location": "/wordpress-basics/basics/#adding-a-link", 
-            "text": "If you wish to add a link to another page/post inside of the Hudson Valley DockDogs website or to another website you can do so via the  WYSIWYG  editor built into WordPress. (Note:  WYSIWYG  stands for  WHAT YOU SEE IS WHAT YOU GET )   Highlight the text you wish to have the link added to from the page/post you re working on from the WordPress Admin Console.  Click on the link icon  Paste in the website address you want the link to go to.", 
+            "text": "If you wish to add a link to another page/post inside of the Hudson Valley DockDogs website or to another website you can do so via the  WYSIWYG  editor built into WordPress. (Note:  WYSIWYG  stands for  WHAT YOU SEE IS WHAT YOU GET )   Highlight the text you wish to have the link added to from the page/post you're working on from the WordPress Admin Console.  Click on the link icon  Paste in the website address you want the link to go to.", 
             "title": "Adding a Link"
         }, 
         {
             "location": "/wordpress-basics/basics/#adding-style-to-format-text", 
-            "text": "You can  BOLD  and  ITALICIZE  or underline text in a format very much like you would using Microsoft Word while working inside of WordPress.    Note  If you prefer keyboard shortcuts you can highlight the text you d like to apply basic styling to and use keyboard shortcuts.  For example: Ctrl (Windows) or CMD (Mac OS) + B will apply bold formatting to highlighted text.", 
+            "text": "You can  BOLD  and  ITALICIZE  or underline text in a format very much like you would using Microsoft Word while working inside of WordPress.    Note  If you prefer keyboard shortcuts you can highlight the text you'd like to apply basic styling to and use keyboard shortcuts.  For example: Ctrl (Windows) or CMD (Mac OS) + B will apply bold formatting to highlighted text.", 
             "title": "Adding Style to Format Text"
         }, 
         {
             "location": "/wordpress-basics/posts/", 
-            "text": "WordPress Posts\n#\n\n\nWordPress sites are primarily comprised of a combination of \nPOSTS\n and\n\nPAGES\n.\n\n\nWhen To Use a Post Versus a Page\n#\n\n\n\n\nTip\n\n\nThe \nPOSTS\n functionality should be used when you\nre adding news or another similar update. You will primarily be \nEDITING PAGES\n or \nADDING POSTS\n as all pages should be already created during the initial site buildout.\n\n\n\n\nAdding A New Post\n#\n\n\n\n\nAccess the WordPress Admin Dashboard\n\n\nClick on \nPOSTS\n from the left hand menu.\n\n\nClick on \nADD NEW\n\n\nEnter a post title\n\n\nType your post text into the box below.\n\n\nSave your post with the \nPUBLISH\n button\n\n\nVisit the website to confirm your post looks correct.\n\n\n\n\nCreating A Photo Gallery\n#\n\n\n\n\nAccess the WordPress Admin Dashboard\n\n\nClick on \nPOSTS\n from the left hand menu.\n\n\nClick on \nADD NEW\n\n\nEnter a post title\n\n\nClick \nADD MEDIA\n above the post body area.\n\n\nSelect the photos you\nd like to add to your new photo album.\n\n\nClick \nCREATE GALLERY\n\n\nPublish the post\n\n\nVisit the \nnews page\n to see the newly created photo gallery.\n\n\n\n\n\n\n\n\nWarning\n\n\nAn example photo gallery post is available via the \nWordPress Admin", 
+            "text": "WordPress Posts\n\n\nWordPress sites are primarily comprised of a combination of \nPOSTS\n and\n\nPAGES\n.\n\n\nWhen To Use a Post Versus a Page\n\n\n\n\nTip\n\n\nThe \nPOSTS\n functionality should be used when you're adding news or another similar update. You will primarily be \nEDITING PAGES\n or \nADDING POSTS\n as all pages should be already created during the initial site buildout.\n\n\n\n\nAdding A New Post\n\n\n\n\nAccess the WordPress Admin Dashboard\n\n\nClick on \nPOSTS\n from the left hand menu.\n\n\nClick on \nADD NEW\n\n\nEnter a post title\n\n\nType your post text into the box below.\n\n\nSave your post with the \nPUBLISH\n button\n\n\nVisit the website to confirm your post looks correct.\n\n\n\n\nCreating A Photo Gallery\n\n\n\n\nAccess the WordPress Admin Dashboard\n\n\nClick on \nPOSTS\n from the left hand menu.\n\n\nClick on \nADD NEW\n\n\nEnter a post title\n\n\nClick \nADD MEDIA\n above the post body area.\n\n\nSelect the photos you'd like to add to your new photo album.\n\n\nClick \nCREATE GALLERY\n\n\nPublish the post\n\n\nVisit the \nnews page\n to see the newly created photo gallery.\n\n\n\n\n\n\n\n\nWarning\n\n\nAn example photo gallery post is available via the \nWordPress Admin", 
             "title": "Working with Posts"
         }, 
         {
@@ -57,7 +57,7 @@
         }, 
         {
             "location": "/wordpress-basics/posts/#when-to-use-a-post-versus-a-page", 
-            "text": "Tip  The  POSTS  functionality should be used when you re adding news or another similar update. You will primarily be  EDITING PAGES  or  ADDING POSTS  as all pages should be already created during the initial site buildout.", 
+            "text": "Tip  The  POSTS  functionality should be used when you're adding news or another similar update. You will primarily be  EDITING PAGES  or  ADDING POSTS  as all pages should be already created during the initial site buildout.", 
             "title": "When To Use a Post Versus a Page"
         }, 
         {
@@ -67,12 +67,12 @@
         }, 
         {
             "location": "/wordpress-basics/posts/#creating-a-photo-gallery", 
-            "text": "Access the WordPress Admin Dashboard  Click on  POSTS  from the left hand menu.  Click on  ADD NEW  Enter a post title  Click  ADD MEDIA  above the post body area.  Select the photos you d like to add to your new photo album.  Click  CREATE GALLERY  Publish the post  Visit the  news page  to see the newly created photo gallery.     Warning  An example photo gallery post is available via the  WordPress Admin", 
+            "text": "Access the WordPress Admin Dashboard  Click on  POSTS  from the left hand menu.  Click on  ADD NEW  Enter a post title  Click  ADD MEDIA  above the post body area.  Select the photos you'd like to add to your new photo album.  Click  CREATE GALLERY  Publish the post  Visit the  news page  to see the newly created photo gallery.     Warning  An example photo gallery post is available via the  WordPress Admin", 
             "title": "Creating A Photo Gallery"
         }, 
         {
             "location": "/wordpress-basics/pages/", 
-            "text": "WordPress Pages\n#\n\n\nWordPress sites are primarily comprised of a combination of \nPOSTS\n and\n\nPAGES\n. \n\n\nAs the Hudson Valley DockDogs Website uses Divi by Elegant Themes all existing pages have been created using the \nDivi Builder\n.\n\n\nPlease check the \nElegant Themes\n provided documentation for Divi for more information.", 
+            "text": "WordPress Pages\n\n\nWordPress sites are primarily comprised of a combination of \nPOSTS\n and\n\nPAGES\n. \n\n\nAs the Hudson Valley DockDogs Website uses Divi by Elegant Themes all existing pages have been created using the \nDivi Builder\n.\n\n\nPlease check the \nElegant Themes\n provided documentation for Divi for more information.", 
             "title": "Working with Pages"
         }, 
         {
@@ -82,7 +82,7 @@
         }, 
         {
             "location": "/wordpress-basics/forms/", 
-            "text": "The Hudson Valley DockDogs website uses two different methods for creating\nforms inside of WordPress.\n\n\nDivi Forms\n#\n\n\nFor basic contact forms the Hudson Valley DockDogs website uses the pre-built\nform engine built into the\n\nDivi Framework\n.\n\n\nContact Form 7 \n PayPal Forms\n#\n\n\nAll forms that integrate with PayPal for accepting payments utilize\n\nContact Form 7\n with a 3\nrd\n party PayPal integration.\n\n\nAdding A New PayPal Form\n#\n\n\n\n\nLogin to WordPress Admin Dashboard\n\n\nLocate the \nCONTACT\n menu on the left hand side.\n\n\nSelect \nADD NEW\n or \nDUPLICATE\n an existing form, such as the \nINDIVIDUAL PAYPAL MEMBERSHIP FORM\n\n\nIf you\nre creating a new form as opposed to duplicating a form you\nll need to configure the PayPal details under the \nPAYPAL\n tab in the form creation area. \n\n\n\n\n\n\nNote\n\n\nTo simplify the configuration it\ns likely best to \nDUPLICATE\n an existing form and then make your specific edits to copy of the original. \n\n\n\n\nEditing an Existing PayPal Form\n#\n\n\n\n\nLogin to WordPress Admin Dashboard\n\n\nLocate the \nCONTACT\n menu on the left hand side\n\n\nSelect \nEDIT\n under the name of the form you wish to edit\n\n\nMake appropriate edits\n\n\nSave the form\n\n\n\n\nEditing an Existing Divi Form (Non-PayPal Form)\n#\n\n\n\n\n\n\nLogin to WordPress Admin dashboard\n\n\nLocate the \nPOST\n or \nPAGE\n which has the existing \nDIVI FORM\n on it from the WordPress Admin Dashboard. \nNote: This can be found from the \nPOSTS\n or \nPAGES\n option on the left hand side menu.\n\n\nSelect \nEDIT\n on the relevant post/page.\n\n\nUsing the \nDIVI BUILDER\n locate the contact form field on this post/page and select to edit it.\n\n\nMake your edits\n\n\nSave the record\n\n\nUpdate the post/page", 
+            "text": "The Hudson Valley DockDogs website uses two different methods for creating\nforms inside of WordPress.\n\n\nDivi Forms\n\n\nFor basic contact forms the Hudson Valley DockDogs website uses the pre-built\nform engine built into the\n\nDivi Framework\n.\n\n\nContact Form 7 \n PayPal Forms\n\n\nAll forms that integrate with PayPal for accepting payments utilize\n\nContact Form 7\n with a 3\nrd\n party PayPal integration.\n\n\nAdding A New PayPal Form\n\n\n\n\nLogin to WordPress Admin Dashboard\n\n\nLocate the \nCONTACT\n menu on the left hand side.\n\n\nSelect \nADD NEW\n or \nDUPLICATE\n an existing form, such as the \nINDIVIDUAL PAYPAL MEMBERSHIP FORM\n\n\nIf you're creating a new form as opposed to duplicating a form you'll need to configure the PayPal details under the \nPAYPAL\n tab in the form creation area. \n\n\n\n\n\n\nNote\n\n\nTo simplify the configuration it's likely best to \nDUPLICATE\n an existing form and then make your specific edits to copy of the original. \n\n\n\n\nEditing an Existing PayPal Form\n\n\n\n\nLogin to WordPress Admin Dashboard\n\n\nLocate the \nCONTACT\n menu on the left hand side\n\n\nSelect \nEDIT\n under the name of the form you wish to edit\n\n\nMake appropriate edits\n\n\nSave the form\n\n\n\n\nEditing an Existing Divi Form (Non-PayPal Form)\n\n\n\n\n\n\nLogin to WordPress Admin dashboard\n\n\nLocate the \nPOST\n or \nPAGE\n which has the existing \nDIVI FORM\n on it from the WordPress Admin Dashboard. \nNote: This can be found from the \nPOSTS\n or \nPAGES\n option on the left hand side menu.\n\n\nSelect \nEDIT\n on the relevant post/page.\n\n\nUsing the \nDIVI BUILDER\n locate the contact form field on this post/page and select to edit it.\n\n\nMake your edits\n\n\nSave the record\n\n\nUpdate the post/page", 
             "title": "Working with Forms"
         }, 
         {
@@ -97,7 +97,7 @@
         }, 
         {
             "location": "/wordpress-basics/forms/#adding-a-new-paypal-form", 
-            "text": "Login to WordPress Admin Dashboard  Locate the  CONTACT  menu on the left hand side.  Select  ADD NEW  or  DUPLICATE  an existing form, such as the  INDIVIDUAL PAYPAL MEMBERSHIP FORM  If you re creating a new form as opposed to duplicating a form you ll need to configure the PayPal details under the  PAYPAL  tab in the form creation area.     Note  To simplify the configuration it s likely best to  DUPLICATE  an existing form and then make your specific edits to copy of the original.", 
+            "text": "Login to WordPress Admin Dashboard  Locate the  CONTACT  menu on the left hand side.  Select  ADD NEW  or  DUPLICATE  an existing form, such as the  INDIVIDUAL PAYPAL MEMBERSHIP FORM  If you're creating a new form as opposed to duplicating a form you'll need to configure the PayPal details under the  PAYPAL  tab in the form creation area.     Note  To simplify the configuration it's likely best to  DUPLICATE  an existing form and then make your specific edits to copy of the original.", 
             "title": "Adding A New PayPal Form"
         }, 
         {
@@ -112,7 +112,7 @@
         }, 
         {
             "location": "/advanced/divi/", 
-            "text": "Working With Divi Theme \n Divi Builder\n#\n\n\n\n\nOfficial Documentation\n#\n\n\nOfficial documentation from Elegant Themes on the Divi Framework can be found online at the \nElegant Themes\n.", 
+            "text": "Working With Divi Theme \n Divi Builder\n\n\n\n\nOfficial Documentation\n\n\nOfficial documentation from Elegant Themes on the Divi Framework can be found online at the \nElegant Themes\n.", 
             "title": "Working with Divi"
         }, 
         {
@@ -127,7 +127,7 @@
         }, 
         {
             "location": "/advanced/events/", 
-            "text": "Events Management\n#\n\n\n\n\nTip\n\n\nThe \nDIVI BUILDER\n CANNOT be used when editing Events instead of the WordPress Admin console. \n\n\n\n\nManaging Practices \n Training Seminars\n#\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on Events in the left hand menu\n\n\nClick Add New Event or \nDUPLICATE\n an existing event of the same type.\n\n\nEdit the cloned (duplicated) event, customizing the details and changing the date.\n\n\nSave the record.\n\n\nVisit \nhttps://hudsonvalleydockdogs.com/events\n to ensure the event appears on the website.\n\n\n\n\nManaging Events Listings for DockDogs Worldwide Events\n#\n\n\n\n\nTip\n\n\nTo easily manage the schedule simply visit the \nhttps://dockdogs.com\n event listing for your event and copy and paste the schedule into the body copy area. \n\n\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on Events in the left hand menu\n\n\nDUPLICATE an existing event of the same type\n\n\nCustomize the details (schedule, dates, registration links, etc)\n\n\nSave the event\n\n\nVisit the \nhttps://hudsonvalleydockdogs.com/events/\n page to ensure it\ns visible and looks correct.", 
+            "text": "Events Management\n\n\n\n\nTip\n\n\nThe \nDIVI BUILDER\n CANNOT be used when editing Events instead of the WordPress Admin console. \n\n\n\n\nManaging Practices \n Training Seminars\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on Events in the left hand menu\n\n\nClick Add New Event or \nDUPLICATE\n an existing event of the same type.\n\n\nEdit the cloned (duplicated) event, customizing the details and changing the date.\n\n\nSave the record.\n\n\nVisit \nhttps://hudsonvalleydockdogs.com/events\n to ensure the event appears on the website.\n\n\n\n\nManaging Events Listings for DockDogs Worldwide Events\n\n\n\n\nTip\n\n\nTo easily manage the schedule simply visit the \nhttps://dockdogs.com\n event listing for your event and copy and paste the schedule into the body copy area. \n\n\n\n\n\n\nLogin to WordPress Admin\n\n\nClick on Events in the left hand menu\n\n\nDUPLICATE an existing event of the same type\n\n\nCustomize the details (schedule, dates, registration links, etc)\n\n\nSave the event\n\n\nVisit the \nhttps://hudsonvalleydockdogs.com/events/\n page to ensure it's visible and looks correct.", 
             "title": "Working with Events"
         }, 
         {
@@ -142,12 +142,12 @@
         }, 
         {
             "location": "/advanced/events/#managing-events-listings-for-dockdogs-worldwide-events", 
-            "text": "Tip  To easily manage the schedule simply visit the  https://dockdogs.com  event listing for your event and copy and paste the schedule into the body copy area.     Login to WordPress Admin  Click on Events in the left hand menu  DUPLICATE an existing event of the same type  Customize the details (schedule, dates, registration links, etc)  Save the event  Visit the  https://hudsonvalleydockdogs.com/events/  page to ensure it s visible and looks correct.", 
+            "text": "Tip  To easily manage the schedule simply visit the  https://dockdogs.com  event listing for your event and copy and paste the schedule into the body copy area.     Login to WordPress Admin  Click on Events in the left hand menu  DUPLICATE an existing event of the same type  Customize the details (schedule, dates, registration links, etc)  Save the event  Visit the  https://hudsonvalleydockdogs.com/events/  page to ensure it's visible and looks correct.", 
             "title": "Managing Events Listings for DockDogs Worldwide Events"
         }, 
         {
             "location": "/style-guide/color-scheme/", 
-            "text": "Hudson Valley DockDogs Website Style Guide\n#\n\n\nThe Hudson Valley DockDogs website is styled with the color scheme based on the colors below. \n\n\nThese colors should be maintained in any additional pages or posts created in the website to maintain a consistent look throughout the Hudson Valley DockDogs website.\n\n\nColor Hex Codes\n#\n\n\n\n\n#a3daff\n\n\n#1ec0ff\n\n\n#0080ff\n\n\n#03a6ff\n\n\n\n\nExample Colors\n#", 
+            "text": "Hudson Valley DockDogs Website Style Guide\n\n\nThe Hudson Valley DockDogs website is styled with the color scheme based on the colors below. \n\n\nThese colors should be maintained in any additional pages or posts created in the website to maintain a consistent look throughout the Hudson Valley DockDogs website.\n\n\nColor Hex Codes\n\n\n\n\n#a3daff\n\n\n#1ec0ff\n\n\n#0080ff\n\n\n#03a6ff\n\n\n\n\nExample Colors", 
             "title": "Color Scheme"
         }, 
         {
@@ -167,7 +167,7 @@
         }, 
         {
             "location": "/style-guide/typefaces/", 
-            "text": "Typefaces\n#\n\n\nThe Hudson Valley DockDogs website should maintain the typefaces preconfigured throughout the website for all new posts and pages. Using these preconfigured typefaces along with the color scheme will maintain readability and consistency throughout the website.", 
+            "text": "Typefaces\n\n\nThe Hudson Valley DockDogs website should maintain the typefaces preconfigured throughout the website for all new posts and pages. Using these preconfigured typefaces along with the color scheme will maintain readability and consistency throughout the website.", 
             "title": "Typefaces"
         }, 
         {
