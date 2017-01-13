@@ -1,5 +1,5 @@
 site_name: Hudson Valley DockDogs Web Help
-copyright: 2016 &copy; Brian J King unless otherwise noted.
+copyright: 2016-2017 &copy; Brian J King unless otherwise noted.
 site_description: Hudson Valley DockDogs Website Documentation
 site_author: Brian J King
 repo_url: https://github.com/brianjking/hudsonvalleyhelp
@@ -62,6 +62,10 @@ extra:
   i18n:
     prev: 'Previous'
     next: 'Next'
- # author:
-  #  github: 'brianjking'
-   # twitter: 'brianjking'
+  social:
+    - type: github-alt
+      link: https://github.com/brianjking
+    - type: twitter
+      link: https://twitter.com/brianjking
+    - type: linkedin
+      link: https://www.linkedin.com/in/brianjking
